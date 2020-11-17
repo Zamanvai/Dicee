@@ -1,6 +1,6 @@
 # dicee
 
-Rolling dice app
+A dice rolling flutter project. With every click the dice rolls and gives a random result
 
 ## Getting Started
 
